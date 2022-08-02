@@ -1,6 +1,6 @@
 ### Oi! Eu sou o Murilo Solino
 
-📚 Cursando Ciência da Computação - 1º semenstre <br>
+📚 Cursando Ciência da Computação - 2º semenstre <br>
 <div align="center">
   <a href="https://github.com/murilosolino">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=murilosolino&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
