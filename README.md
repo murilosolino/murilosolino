@@ -1,6 +1,6 @@
 ### Oi! Eu sou o Murilo Solino
 
-📚 Cursando Ciência da Computação - 2º semenstre <br>
+📚 Cursando Ciência da Computação <br>
 
 <div align="center">
   <a href="https://github.com/murilosolino">
