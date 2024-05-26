@@ -1,15 +1,13 @@
-### Oi! Eu sou o Murilo Solino
+### Oi! Eu sou o Murilo 👋
 
-📚 Cursando Ciência da Computação <br>
+- 📚 Cursando Ciência da Computação <br>
 
-<div align="center">
-  <a href="https://github.com/murilosolino">
-</a> 
-</p>
+- 📍 Neste perfil armanezo os meus projetos enquanto  estudo e aprimoro minhas habilidades sobre as tecnologias da área.
 
-    
-</div>
-  
+### Tecnologias utiliazadas
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=murilosolino&layout=compact&bg_color=000&border_color=000&title_color=FFF&text_color=FFF)
+
+### 📫 Conecte-se Comigo.
 <div>
    <center>
      <a href = "mailto:murilo.solino@outlook.com"><img src=https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white target="_blank"></a>
