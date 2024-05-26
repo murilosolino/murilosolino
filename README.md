@@ -4,7 +4,7 @@
 
 - 📍 Neste perfil armanezo os meus projetos enquanto  estudo e aprimoro minhas habilidades sobre as tecnologias da área.
 
-### Tecnologias utiliazadas
+### 💻 Tecnologias utiliazadas
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=murilosolino&layout=compact&bg_color=000&border_color=000&title_color=FFF&text_color=FFF)
 
 ### 📫 Conecte-se Comigo.
