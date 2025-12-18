@@ -1,15 +1,36 @@
 ### Oi! Eu sou o Murilo 👋
 
-- 📚 Cursando Ciência da Computação <br>
+🎓 Sou Desevolvedor de Software Backend, formado em Ciência da Computação.
 
-- 📍 Neste perfil armanezo os meus projetos enquanto  estudo e aprimoro minhas habilidades sobre as tecnologias da área.
+💻 Atualmente, atuo como **Desenvolvedor de Software na Serasa Experian**, focando na construção de soluções robustas e escaláveis. Este repositório é onde armazeno meus projetos pessoais, estudos e experimentos práticos.
 
-### 💻 Tecnologias utiliazadas
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=murilosolino&layout=compact&bg_color=000&border_color=000&title_color=FFF&text_color=FFF)
+---
 
-### 📫 Conecte-se Comigo.
-<div>
-   <center>
-  <a href="https://www.linkedin.com/in/murilo-solino-312960236" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-    </center> 
+### 👨‍💻 Backend Identity
+
+```json
+{
+  "nome": "Murilo Solino",
+  "cargo": "Backend Developer",
+  "empresa": "Serasa Experian",
+  "foco_atual": ["PHP Moderno", "Microsserviços", "Cloud Computing"],
+  "stack_favorita": {
+    "linguagens": ["PHP", "Go", "Java"],
+    "banco_de_dados": "MySQL",
+    "ops": ["Docker", "GCP"]
+  }
+}
+```
+
+<br>
+
+### 📫 Conecte-se Comigo
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/murilo-solino-312960236" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a> 
+  <a href="mailto:murilo.solino@outlook.com">
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank">
+  </a>
 </div>
